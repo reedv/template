@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Microbots
 permalink: projects/micromouse
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Micro-robotics
+  - Processing
+summary: My team helped develop a design to allow microscopic bubbles to be controlled to manipulate other objects using laser technology.
 ---
 
 <div class="ui small rounded images">
