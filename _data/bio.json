@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "reedv",
         "url": "https://www.linkedin.com/in/reed-villanueva-30926a124"
-      },
-      {
-        #"network": "twitter",
-        #"username": "TODO",
-        #"url": "http://twitter.com/TODO"
-      },
-      {
-        "network": "instagram",
-        "username": "TODO",
-        "url": "http://instagram.com/TODO"
       }
     ]
   },
@@ -76,7 +66,8 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "gdb"
+        "gdb",
+        "Wireshark"
       ]
     }
   ],
@@ -120,30 +111,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Boy Scouts of America",
+      "website": "http://www.scouting.org/",
+      "position": "Eagle Scout",
+      "startDate": "2005",
+      "endDate": "2011",
+      "summary": "Helping to organize and participating in various community service projects",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
@@ -153,10 +129,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
+      "title": "Second place",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "CTAHR/COE Research Symposium",
+      "summary": "My team won second place in 2015 for oral presentation on “Control of Microrobots using Laser Technology”.  See my portfolio site for more details."
     }
   ],
   "references": [
