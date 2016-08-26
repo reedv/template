@@ -12,9 +12,9 @@ summary: My team helped develop a design to allow microscopic bubbles to be cont
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/microbots-setup-diagram.png">
+  <img class="ui image" src="../images/microbots-setup-physical.jpg">
+  <img class="ui image" src="../images/microbots-demo.png">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
