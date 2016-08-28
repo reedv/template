@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/microbots-bubble-demo.png
 title: Microbots
-permalink: projects/micromouse
+permalink: projects/microbots
 date: 2015
 labels:
   - Micro-robotics
