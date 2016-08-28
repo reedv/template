@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/microbots-bubble-demo.jpg
+image: images/microbots-bubble-demo.png
 title: Microbots
 permalink: projects/microbots
 date: 2015
