@@ -13,7 +13,7 @@ labels:
 summary: A tool for finding arbitrage pricing differences between Amazon.com textbook prices and their offered trade-in values.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/amazonTextArb.png">
+<img class="ui image" src="../images/amazonTextArb.png">
 
 AmazonTradeinArbitrage was a tool that I created during summer break in 2015; I later used the project as a substitute for EE396. The project helped me learn about web scraping and creating programs that interact with a database.
 
