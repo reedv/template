@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/amazonTextArb.png
 title: Amazon Textbook Arbitrage
 permalink: projects/vacay
 date: 2015
