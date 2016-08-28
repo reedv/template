@@ -6,7 +6,7 @@
     "email": "villanuevareed@gmail.com",
     "phone": "808-741-1058",
     "website": "https://reedv.github.io/",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2017.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. Expecting to graduate in Spring, 2017.",
     "location": {
       "address": "",
       "postalCode": "96744",
@@ -43,6 +43,9 @@
       "name": "data mining",
       "keywords": [
       ]
+    }
+    {
+      "name": "animal welfare"
     }
   ],
   "skills": [

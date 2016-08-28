@@ -4,3 +4,6 @@
 template.iml
 _site/
 .sass-cache/
+
+.DS_Store
+projects/.DS_Store
