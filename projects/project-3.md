@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sortingDemo-sort.png
-title: Cotton
+title: Simple Sorting/Searching Visuals 
 permalink: projects/sortingDemo
 date: 2014
 labels:
