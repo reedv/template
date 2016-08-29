@@ -14,5 +14,5 @@ I took my first computer programming class in my first semester at a community c
 <img class="ui tiny left circular floated image" src="../images/spaghetti-code.jpg">
 I could not have imagined the hidden nightmares behind this new interest. When I missed the first major project deadline in that class due to my own impossible-to-debug spaghetti code, I became eager to learn about design; Spending free time to learn about things like judicious commenting/naming, sensibly isolating function responsibilities, using readable formatting, design patterns, etc.
 
-<img class="ui tiny left circular floated image" src="../images/architecture-making-the-house.jpg">
+<img class="ui small left circular floated image" src="../images/architecture-making-the-house.jpg">
 There is still a lot more that I have to learn. I have started taking a software engineering class and it is so far looking to be a good opportunity to gain some valuable experiences. My goal for this class is to learn how to more effectively build projects that are useful and maintainable, and be able be able to take another step towards building better tools for people to use.
