@@ -7,7 +7,7 @@ permalink: projects/sortingDemo
 date: 2014
 labels:
   - Java
-  - Java Swing
+  - JavaFX
   - GitHub
 summary: A simple GUI app for visualizing some searching and sorting algorithms I made for ICS211.
 ---
