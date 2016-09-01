@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: Javascript First Impressions
-published: true
 date: 2016-08-29
 lables:
 	- Javascript
