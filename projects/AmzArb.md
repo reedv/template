@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/amazonTextArb.png
+image: images/amazonTextArb-sqr.png
 title: Amazon Textbook Arbitrage
 permalink: projects/AmzTextArb
 date: 2015
