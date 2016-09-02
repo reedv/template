@@ -12,9 +12,9 @@ __On Javascript__
 
 I recently started learning Javascript for a software engineering class and, coming from C++ being my first language, there are a lot of things that come as a welcomed change. I'm just going to list everything I like about the language so far.
 
-1. Its a scripting language, so you can quickly do tests and experiments with it (in this case, from the Node.js environment).
+1. Its a scripting language, so you can quickly do tests and experiments with it.
 2. Objects in Javascript more closely resemble key-value lists, rather than a C-like object with predefined fields and methods, so attributes can be added or removed at runtime as needed. This all works as expected because...
-3. Functions as first class objects, so once you define a function, you can pass it around like any other variable (such as adding it to an object's list of attributes).
+3. Functions are first class objects, so once you define a function, you can pass it around like any other variable (such as adding it to an object's list of attributes).
 4. Arrays have no type restrictions, so there is less getting in the way of you making the kind of data structure you want to make.
 5. Partial functions (function currying). Being able to partially apply a function's parameters (as well as nested functions) makes it easier to build larger and more flexible functions.
 6. Javascript's loose typing makes it easy to build things on the fly, only when you need them, without having to first define some class or struct.
