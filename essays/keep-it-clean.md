@@ -2,7 +2,8 @@
 layout: essay
 type: essay
 title: Keep It Clean
-data: 2016-09-20
+published: true
+date: 2016-09-20
 labels:
 	- coding standards
 ---
