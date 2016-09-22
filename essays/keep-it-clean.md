@@ -5,8 +5,9 @@ title: Keep It Clean
 published: true
 date: 2016-09-20
 labels:
-	- coding standards
+  - coding standards
 ---
+
 <img class="ui medium right spaced image" src="../images/xkcd-other-peoples-code.png">
 
 <!-- I'm going to experiment here and, as much as possible, dictate what to write as if it were a conversation -->
