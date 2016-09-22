@@ -8,7 +8,7 @@ labels:
   - coding standards
 ---
 
-<img class="ui medium right spaced image" src="../images/xkcd-other-peoples-code.png">
+<img class="ui large center spaced image" src="../images/xkcd-other-peoples-code.png">
 
 <!-- I'm going to experiment here and, as much as possible, dictate what to write as if it were a conversation -->
 There have been a lot of times where I would just make a huge mess of code, just trying to get the thing to work, and after finally getting the thing to work, it just feels natural to be done with it for the day. However, 'done for the day' usually turned out to be 'done forever' once I knew the code was working. Those kinds of decisions would always come back to waste my time whenever I needed to work with the code again or even just refer to it; and the longer such a mess goes uncleaned, the harder it becomes to clean it up later when the tacit knowledge of what in the world was going on is long gone.
