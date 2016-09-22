@@ -1,13 +1,10 @@
 ---
 layout: essay
 type: essay
-published: true
 title: Keep It Clean
 data: 2016-09-20
 labels:
 	- coding standards
----
-Your submission should be a URL providing a direct link to your essay (not a link to the home page of your portfolio, nor a link to the essays directory page). If the link does not work, you will not get credit for your essay.
 ---
 <img class="ui medium right spaced image" src="../images/xkcd-other-peoples-code.png">
 
