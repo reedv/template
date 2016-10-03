@@ -5,7 +5,7 @@
     "picture": "https://REEDV.github.io/images/1.1-square.JPG",
     "email": "villanuevareed@gmail.com",
     "phone": "808-741-1058",
-    "website": "https://reedv.github.io/",
+    "website": "https://reedv.github.io",
     "summary": "Studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. Expecting to graduate in Spring, 2017.",
     "location": {
       "address": "",
@@ -122,6 +122,12 @@
       "date": "2015",
       "awarder": "CTAHR/COE Research Symposium",
       "summary": "My team won second place in 2015 for oral presentation on “Control of Microrobots using Laser Technology”.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
