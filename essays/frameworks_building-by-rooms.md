@@ -11,7 +11,7 @@ UI frameworks are not simple and, in fact, can turn out to be as complicated as 
 
 
 For example, here is a shot of a website's main menu bar and the associated source code.
-<img src="../images/murphysbar_real.png">
+<img src="../images/murphysbar_real.png" style="border: 10px">
 
 ``` html
 <header id="main-header" class="et_nav_text_color_dark" style="top: 0px;">
@@ -55,7 +55,7 @@ For example, here is a shot of a website's main menu bar and the associated sour
 
 ```
 Now here is a 20-minute attempt at a recreation of that menu bar using the Semantic UI html framework.
-<img src="../images/murphysbar_fake.png">
+<img src="../images/murphysbar_fake.png" style="border: 10px">
 
 ``` html
 <div class="ui borderless container menu" id="top-menu">
