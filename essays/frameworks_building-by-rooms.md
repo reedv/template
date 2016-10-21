@@ -10,7 +10,7 @@ labels:
 UI frameworks are not simple and, in fact, can turn out to be as complicated as learning a new language. Furthermore, there are so many frameworks available for whatever you are trying to do that choosing the best fit for your project is going to have to rely mostly on an educated guess of pros and cons, which requires experience and the hope that you are not just falling for particular marketing. Despite this, I still think (and the popularity of frameworks supports this) that the abstraction and other benefits you gain by taking a chance on a best guess are worth the risks.
 
 
-For example, here is a shot of a website's main menu bar and the associated source code.
+For example, here is a shot of the main menu for a local bar and the associated source code.
 <img class="ui big centered image" src="../images/murphysbar_real.png">
 
 ``` html
@@ -54,7 +54,7 @@ For example, here is a shot of a website's main menu bar and the associated sour
 				<span class="select_page">Select Page</span>
 
 ```
-Now here is a 20-minute attempt at a recreation of that menu bar using the Semantic UI html framework.
+Now here is a 20-minute attempt at a recreation of that menu using the Semantic UI HTML framework just from looking at the site.
 <img class="ui big centered image" src="../images/murphysbar_fake.png">
 
 ``` html
@@ -91,7 +91,7 @@ Now here is a 20-minute attempt at a recreation of that menu bar using the Seman
   </div>
 </div>
 ```
-I've taken some liberties here and avoided implementing some sub-menu items, but you can see that the code is cleaner and we are able to avoid many of the differently-named class and id tags used in the original code. The one that I may have about this particular framework is about its emphasis on using natural language, which is somewhat of a context switch from most programming languages and doesn't always work like you'd expect it to (for example, you can have a "centered container", but need to specify a "center *aligned* menu").
+I've taken some liberties here and avoided implementing some sub-menu items, but you can see that the code is cleaner and we are able to avoid many of the differently-named class and id tags used in the original code. The one complaint that I may have about this particular framework is about its emphasis on using natural language, which is somewhat of a context switch from most programming languages and doesn't always work like you'd expect it to (for example, you can have a "centered container", but need to specify a "center *aligned* menu").
 
 With a framework, you get to focus more on *what* it is you want (and testing the results) rather than on how you are going to get there. A framework is also a guarantee of a certain degree quality, upgradability and maintainability of an application; Frameworks have been widely tested over years and represent a collective investment in software infrastructure. Overall, framework abstractions enable you to add more value per keystroke (or minute) with less of the mental effort, which can now be redirected elsewhere.
 
