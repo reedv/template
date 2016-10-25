@@ -26,7 +26,7 @@ The ability to adjust the size of the projected image allowed users to control t
 For this project, I was the lead programmer who was responsible for programming the various capabilities of bubbles and how bubbles could interact with each other. I programmed to logic that kept the bubbles in the boundaries required by the projector, kept the bubbles from getting to close to each other while still allowing individual bubbles controlled by different users to interact with each other in a natural way, and also implemented the method of having several users move different bubbles with game controllers in a way that all bubbles could move independently and simultaneously.
 
 
-You can learn more at the [UH Microdevices Website](https://sites.google.com/a/hawaii.edu/uh-mnm-lab/).
+You can learn more about the project at the [UH Microdevices Website](https://sites.google.com/a/hawaii.edu/uh-mnm-lab/).
 
 
 

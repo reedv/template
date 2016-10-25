@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "networking",
+      "name": "algorithms",
       "keywords": [
       ]
     },
     {
-      "name": "algorithms",
+      "name": "networking",
       "keywords": [
       ]
     },
@@ -69,7 +69,8 @@
         "Git/GitHub",
         "g++",
         "gdb",
-        "Wireshark"
+        "Wireshark",
+        "Meteor"
       ]
     }
   ],
