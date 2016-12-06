@@ -7,10 +7,8 @@ date: 2016-09-20
 labels:
   - coding standards
 ---
-<body style="background-color: #FDF3E7">
 <img class="ui large center spaced image" src="../images/xkcd-other-peoples-code.png">
 
-<!-- I'm going to experiment here and, as much as possible, dictate what to write as if it were a conversation -->
 There have been a lot of times where I would make a huge mess of code just trying to get the thing to work, and after finally running successful tests, it just feels natural to be done with it for the day. However, 'done for the day' usually turned out to be 'done forever' once I knew the code was working. Those kinds of decisions would always come back to waste my time whenever I needed to work with the code again or even just refer to it; and the longer such a mess goes uncleaned, the harder it becomes to clean it up later when the tacit knowledge of what in the world was going on is long gone.
 
 Using coding standards keeps everyone speaking a common language and using it in an agreed upon way, and overall, lets you work with the code in the future (next week, next month, next year) without having to wade through a mess left by you or others before you, each time.

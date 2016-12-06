@@ -7,7 +7,6 @@ date: 2016-09-20
 labels:
   - coding standards
 ---
-<body style="background-color: #FDF3E7">
 UI frameworks are not simple and, in fact, can turn out to be as complicated as learning a new language. Furthermore, there are so many frameworks available for whatever you are trying to do that choosing the best fit for your project is going to have to rely mostly on an educated guess of pros and cons, which requires experience and the hope that you are not just falling for particular marketing. Despite this, I still think (and the popularity of frameworks supports this) that the abstraction and other benefits you gain by taking a chance on a best guess are worth the risks.
 
 
