@@ -95,5 +95,3 @@ Now here is a 20-minute attempt at a recreation of that menu using the Semantic 
 I've taken some liberties here and avoided implementing some sub-menu items, but you can see that the code is cleaner and we are able to avoid many of the differently-named class and id tags used in the original code. The one complaint that I may have about this particular framework is about its emphasis on using natural language, which is somewhat of a context switch from most programming languages and doesn't always work like you'd expect it to (for example, you can have a "centered container", but need to specify a "center *aligned* menu").
 
 With a framework, you get to focus more on *what* it is you want (and testing the results) rather than on how you are going to get there. A framework is also a guarantee of a certain degree quality, upgradability and maintainability of an application; Frameworks have been widely tested over years and represent a collective investment in software infrastructure. Overall, framework abstractions enable you to add more value per keystroke (or minute) with less of the mental effort, which can now be redirected elsewhere.
-
-</body>

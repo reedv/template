@@ -17,13 +17,10 @@ Using coding standards keeps everyone speaking a common language and using it in
 
 I recently started learning JavaScript as well as using ESLint. My experience with the linter so far is that it slaps you in the face for everything little thing you know to be working, eg.
 
-```
 for(let i=0; i<5; i++)
-```
+
 is just not ok, you need 
 
-```
 for(let i = 0; i < 5: i += 1)
-``` 
+ 
 and are still expected to say 'thank you mistress.' I do appreciate the immediate feedback on stylistic and programming errors, rather then having to run the files in order to see what issues come up, but not letting me run a script for things like that seem like going too far. If what ESLint is enforcing are the coding standards of the language, I'm just going to take it on faith for now that it's going to make the code easier to work with in the future and help me learn how to better use the language. 
-</body>
