@@ -5,6 +5,7 @@ image: images/sortingDemo-sort.png
 title: Simple Sorting/Searching Visuals 
 permalink: projects/sortingDemo
 date: 2014
+published: false
 labels:
   - Java
   - JavaFX

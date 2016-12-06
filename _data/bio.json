@@ -54,10 +54,12 @@
       "keywords": [
         "C (proficient)",
         "C++ (proficient)",
-        "Java (proficient)",
+        "JavaScript (proficient)",
+        "Java (basic)",
         "Python (prior experience)",
+        "MongoDB (basic)",
         "SQL (prior experience)",
-        "JavaScript (prior experience)"
+        "Meteor Web Framework (basic)"
       ]
     },
     {
@@ -69,8 +71,7 @@
         "Git/GitHub",
         "g++",
         "gdb",
-        "Wireshark",
-        "Meteor"
+        "Wireshark"
       ]
     }
   ],
