@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/alloy_landing-page.png.png
+image: images/alloy_logo.png.png
 title: Alloy Collaboration Web App 
 permalink: projects/alloy-collab
 date: 2016
