@@ -14,7 +14,7 @@ summary: A Meteor web app for allowing members of the UH community find and coll
 ---
 
 <img class="ui image" src="../images/alloy_landing-page.png">
-<div class="ui large rounded images">
+<div class="ui big rounded images">
   <img class="ui image" src="../images/alloy_user-profile.png">
   <img class="ui image" src="../images/alloy_project-edit.png">
 </div>
