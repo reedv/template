@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: From Student To More Knowledgeable Student
 date: 2016-08-27
+published: false
 labels:
   - Software Engineering
   - Learning

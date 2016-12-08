@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Indistinguishable From Magic
-published: true
+published: false
 date: 2016-10-20
 labels:
   - Meteor
