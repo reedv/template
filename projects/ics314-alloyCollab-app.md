@@ -21,7 +21,7 @@ summary: A Meteor web app for allowing members of the UH community find and coll
 
 Alloy is a tool to help members of the UH community find projects and find people for projects of their own. Have an idea for a project that would look good on your resume? Want to do your own custom senior project? Or do you just want experiment and learn something new with other students who just want to do the same? Alloy helps you find a team that's right for what you want.
 
-Alloy is built using the Meteor web framework.
+Alloy is built using the Meteor web framework (which allows for clean and obvious model-view-controller designs).
 
 My roles in the project:
 
