@@ -4,7 +4,7 @@ type: project
 image: images/tircis.jpg
 title: Tircis Spectral Processing Optimization 
 permalink: projects/Tirsic
-date: 2017-present
+date: 2017
 labels:
   - C/C++
   - Concurrency
