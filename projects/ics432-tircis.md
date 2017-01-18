@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/tircis.jpeg
+image: images/tircis_thumbnail.jpeg
 title: Tircis Spectral Processing Optimization 
 permalink: projects/Tirsic
 date: 2017
 labels:
   - C/C++
   - Concurrency
-summary: Running list of things I've tried to speed up hyperspectral data processing software used by the Hawaii Institute of Geophysics and Planetology.
+summary: Currently, a running list of things I've tried to speed up hyperspectral data processing software used by the Hawaii Institute of Geophysics and Planetology.
 ---
 <img class="ui image" src="../images/tircis.jpeg">
 
