@@ -19,7 +19,8 @@ This page is currently just a running list of some of the things I tried to opti
 *
 
 
+(Final results to be posted)
 
 [Project Homepage](http://www.higp.hawaii.edu/~harold/tircis_doc/index.html)
 
-Source: <a href="https://github.com/reedv/Tircis"><i class="large github icon"></i>Tircis</a>
+
