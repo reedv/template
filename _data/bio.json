@@ -39,11 +39,6 @@
       ]
     },
     {
-      "name": "networking",
-      "keywords": [
-      ]
-    },
-    {
       "name": "animal welfare"
     }
   ],
@@ -59,7 +54,8 @@
         "Python (prior experience)",
         "MongoDB (basic)",
         "SQL (prior experience)",
-        "Meteor Web Framework (basic)"
+        "Meteor Web Framework (basic)",
+	"Microsoft Hololens (prior experience)"
       ]
     },
     {
