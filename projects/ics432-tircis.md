@@ -21,10 +21,10 @@ This page is currently just a running list of some of things I tried to optimize
 * The 'ndata' bounded loops in svdfit_d.c were parallelized using OpenMP directives. This reduced the time the program spent in this file (as reported by the gprof profiler) by 195.918%.
 * The function GeneProcess::GeneFrame originally accounted for 3.61% of total execution time. Adding OpenMP directive to outermost loop reduced time spent in this function by 199.345% (as recorded by gprof profiler). This change, in addition to the changes to svdfit_d.c, resulting in a 14.14% reduction in total execution latency. 
 * Parallelized a large inner loop in function svbksb_d(), which had initially accounted for 2.06% of total program execution time, reducing the profiled time the program spent in this function by 198.792%.
-* The file svdcmp_d.cpp makes up about 55% of the program's total execution time. Its code appears to be nearly exactly the same as the standard value decomposition code provided by [numerical.recipes](http://numerical.recipes/webnotes/nr3web2.pdf) (aside from variable names). It may be faster to simply try to gut this implementation from the code and use a faster, library SVD. This may be limited by whether the implementation used in the Tircis code is an 'exact' SVD or and SVD with some special adjustments.   
+* The file svdcmp_d.cpp makes up about 55% of the program's total execution time. Its code appears to be nearly exactly the same as the standard value decomposition code provided by [numerical.recipes](http://numerical.recipes/webnotes/nr3web2.pdf) (aside from variable names). Trying to gut this implementation from the code and use a faster, library SVD may be the most high leverage thing to do at this point. This may be limited by whether the implementation used in the Tircis code is an 'exact' SVD or and SVD with some special adjustments.   
 
 
-(Final results to be posted. Since the profiler used for this project was gprof, the ratios of improvement in execution times will be listed rather than reported execution times)
+(Final results to be posted. Since the profiler used for this project was gprof, the *ratios* of improvement in execution times will be listed rather than reported execution times)
 
 [Project Homepage](http://www.higp.hawaii.edu/~harold/tircis_doc/index.html)
 
