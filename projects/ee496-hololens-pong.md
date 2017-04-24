@@ -32,7 +32,3 @@ The development process for this project is divided into milestones to denote di
 The game itself is intended to play as follows: A main player (P1) starts the game and invites a second player (P2) who then shares the same holographic overlay on the world as P1. At the start, each player has a small ball hologram floating in front of them and there will be a medium-sized bucket hologram in front of P1. P1 can then pick up the bucket (using a gesture) and move it anywhere in the physical space that has been mapped by the Hololens.
 
 Once the bucket has been moved to a location chosen by P1, P1 gives a voice command to start the game. Once this happens, each player can pick up the ball in front of there faces and they each get one chance to toss the ball into the bucket. If both players can toss their ball into the bucket, the game is too easy, no points are given, and a menu pops up for each player offering a selection of moving ad nonmoving obstacles, of which they can each pick one and place somewhere in the environment. This continues until at least one person fails and one succeeds. The idea is that each player wants to make the course difficult for the other player, but possible for themselves. I believe that this mechanic is a good way for the difficulty of each game to scale to the users’ abilities.
-
-
-[Project Home Page](https://alloyteams.github.io/)
-
