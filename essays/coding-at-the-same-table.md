@@ -8,6 +8,7 @@ labels:
   - Configuration managment
   - git/GitHub
 ---
+__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it does sound sound quite like _me_ and I hope to add more "essays" in the future.
 
 When I was first learning programming, I had heard of git and GitHub, but was able to get by without thinking I really needed something like that. In later larger projects, working with teams of other people, though, using git/GitHub was a definite upgrade from the way I had been doing things before; I thought 'this is awesome, I should be using this for everything,' you can pull things down, break them in an isolated branch, and just was your hands of the mess you've made. Basically, git/GitHub helps better enable you to treat your project like a of box physical stuff that you and your team can sit around a table with and work on together. I think this is a much more natural way of thinking about working on code together and git/GitHub does a good job a letting you treat it that way.
 
