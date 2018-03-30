@@ -58,9 +58,12 @@
         "Java (basic)",
         "Python (basic)",
         "MongoDB (basic)",
+        "OpenCV computer vision library (basic)",
+        "TensorFlow (basic)",
+        "hadoop (mapr)",
         "SQL (prior experience)",
         "Meteor Web Framework (basic)",
-	"Microsoft Hololens (prior experience)"
+	    "Microsoft Hololens (prior experience)"
       ]
     },
     {
@@ -92,23 +95,23 @@
   ],
   "work": [
     {
+      "company": "University Health Partners of Hawaii",
+      "position": "Computer Engineer (Intern)",
+      "website": "https://uhphawaii.org/",
+      "startDate": "2017-07",
+      "endDate": "present",
+      "summary": "Machine learning for medical coding and other applications, hadoop administration for data management",
+      "highlights": [
+      
+      ]
+    },
+    {
       "company": "Windward Community College",
       "position": "Supplemental Instructor (Calculus 2)",
       "website": "https://windward.hawaii.edu/Supplemental_Instruction/",
       "startDate": "2014-01",
       "endDate": "2014-05",
       "summary": "Conducted supplemental instructional sessions for a minimum of 50 minuets following each class session. Worked with both large and small groups of students.",
-      "highlights": [
-      
-      ]
-    },
-    {
-      "company": "University Health Partners of Hawaii",
-      "position": "Computer Engineer (Intern)",
-      "website": "https://uhphawaii.org/",
-      "startDate": "2017-07",
-      "endDate": "present",
-      "summary": "Currently working on implementing machine learning systems on medical data.",
       "highlights": [
       
       ]
