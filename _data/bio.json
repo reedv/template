@@ -34,11 +34,6 @@
       ]
     },
     {
-      "name": "algorithms",
-      "keywords": [
-      ]
-    },
-    {
       "name": "machine learning",
       "keywords": [
       ]
@@ -52,16 +47,16 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C (proficient)",
-        "C++ (proficient)",
-        "JavaScript (proficient)",
-        "Java (basic)",
-        "Python (basic)",
+        "Java",
+        "Python",        
+        "C",
+        "C++",
+        "JavaScript",
         "MongoDB (basic)",
         "OpenCV computer vision library (basic)",
         "TensorFlow (basic)",
-        "hadoop (mapr)",
-        "SQL (prior experience)",
+        "hadoop administration (mapr (6.0))",
+        "SQL (basic)",
         "Meteor Web Framework (basic)",
 	    "Microsoft Hololens (prior experience)"
       ]
@@ -73,22 +68,20 @@
         "MacOS",
         "Ubuntu",
         "H2O.ai",
-	 "opencv",
+	    "opencv",
         "Git/GitHub",
-        "g++",
-        "gdb",
-        "Wireshark"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering",
+      "area": "Computer Engineering (Magna Cum Laude)",
       "studyType": "B.S.",
       "startDate": "2011-09-01",
       "endDate": "2017-05-05",
-      "gpa": "3.72 - Magna Cum Laude",
+      "gpa": "",
       "courses": [
       ]
     }
@@ -96,11 +89,11 @@
   "work": [
     {
       "company": "University Health Partners of Hawaii",
-      "position": "Computer Engineer (Intern)",
+      "position": "Computer Engineer",
       "website": "https://uhphawaii.org/",
       "startDate": "2017-07",
       "endDate": "present",
-      "summary": "Machine learning for medical coding and other applications, hadoop administration for data management",
+      "summary": "Machine learning solutions for medical coding and other applications, hadoop administration for data management and governance",
       "highlights": [
       
       ]
