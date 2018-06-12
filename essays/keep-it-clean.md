@@ -7,7 +7,7 @@ date: 2016-09-20
 labels:
   - coding standards
 ---
-__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it does sound sound quite like _me_ and I hope to add more "essays" in the future.
+__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it just doesn't sound sound quite like _me_ and I hope to add more "essays" in the future.
 
 <img class="ui large center spaced image" src="../images/xkcd-other-peoples-code.png">
 

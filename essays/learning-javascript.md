@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: Javascript First Impressions
 date: 2016-08-29
+published: false
 labels:
   - Javascript
   - Athletic Software Engineering
 ---
-__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it does sound sound quite like _me_ and I hope to add more "essays" in the future.
+__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it just doesn't sound sound quite like _me_ and I hope to add more "essays" in the future.
 
 __On Javascript__
 

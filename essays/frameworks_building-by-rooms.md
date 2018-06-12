@@ -8,7 +8,7 @@ labels:
   - Semantic UI
   - Frameworks
 ---
-__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it does sound sound quite like _me_ and I hope to add more "essays" in the future.
+__Disclaimer__: This essay was written for a college course to meet grading requirements, and while I am not particularly embarrassed of it, it just doesn't sound sound quite like _me_ and I hope to add more "essays" in the future.
 
 UI frameworks are not simple and, in fact, can turn out to be as complicated as learning a new language. Furthermore, there are so many frameworks available for whatever you are trying to do that choosing the best fit for your project is going to have to rely mostly on an educated guess of pros and cons, which requires experience and the hope that you are not just falling for particular marketing. Despite this, I still think (and the popularity of frameworks supports this) that the abstraction and other benefits you gain by taking a chance on a best guess are worth the risks.
 
