@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Building Houses By The Rooms, Not By The Bricks
-published: true
+published: false
 date: 2016-09-20
 labels:
   - Semantic UI
