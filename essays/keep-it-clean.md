@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Keep It Clean
+title: Alright already, yes mistress
 published: false
 date: 2016-09-20
 labels:
@@ -24,3 +24,10 @@ is just not ok, you need
 for(let i = 0; i < 5: i += 1)
  
 and are still expected to say 'thank you mistress.' I do appreciate the immediate feedback on stylistic and programming errors, rather then having to run the files in order to see what issues come up, but not letting me run a script for things like that it just a pain in the butt. If what ESLint is enforcing are the coding standards of the language, I'm just going to take it on faith for now that it's going to make the code easier to work with in the future and help me learn how to better use the language. 
+
+----------
+**Update**: WIP notes 
+Since having graduated college and getting a job, not able to work on side projects as often.
+Can now see the value in a harsh mistress.
+Can empathize with those Japanese business men that are just tired of having to think about what to tell other people all day and just want to hire an expensive escort, get on their yacht, and get spanked and told what *they* should do.
+(If you the reader have somehow found this site and are reading this and are currently dating me right now, note that this is just a joke and note actually what I would like you to do).
