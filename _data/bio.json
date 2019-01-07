@@ -53,13 +53,14 @@
         "C++",
         "JavaScript",
         "React.js",
-        "MongoDB (basic)",
-        "OpenCV computer vision library (basic)",
-        "TensorFlow (basic)",
+        "React Native",
+        "MongoDB",
+        "OpenCV computer vision library",
+        "TensorFlow",
         "hadoop administration (mapr (6.0))",
-        "SQL (basic)",
-        "Meteor Web Framework (basic)",
-	    "Microsoft Hololens (prior experience)"
+        "SQL",
+        "Meteor Web Framework",
+	    "Microsoft Hololens"
       ]
     },
     {
@@ -67,7 +68,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
         "H2O.ai",
 	    "opencv",
         "Git/GitHub",
